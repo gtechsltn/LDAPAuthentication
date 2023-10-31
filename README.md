@@ -8,7 +8,7 @@ https://medium.com/@pichid/login-ผ่าน-ad-ด้วย-owin-บน-asp-ne
 https://github.com/bencomtech/LDAPAuthentication
 
 ## Code Services
-https://github.com/gtechsltn/LDAPAuthentication/blob/master/LDAPAuthentication/Services/ADAuthenticationService.cs
+[ADAuthenticationService.cs](https://github.com/gtechsltn/LDAPAuthentication/blob/master/LDAPAuthentication/Services/ADAuthenticationService.cs)
 
 ## Code Controllers
-https://github.com/gtechsltn/LDAPAuthentication/blob/master/LDAPAuthentication/Controllers/AccountController.cs
+[LoginController.cs](https://github.com/gtechsltn/LDAPAuthentication/blob/master/LDAPAuthentication/Controllers/LoginController.cs)
