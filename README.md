@@ -19,5 +19,9 @@ https://github.com/bencomtech/LDAPAuthentication
 + https://github.com/gtechsltn/ThaiNationalIDCard.NET
 + https://github.com/gtechsltn/LDAPAuthentication
 + https://github.com/gtechsltn/ReactAuthentication
-+ https://docs.google.com/document/d/1sW4PtdFDIcadpU1A-MSa0KqXqkqUnB6Rz3_g9HOy-bs/ (SSO)
-+ https://docs.google.com/document/d/18fEJMAHNOz_SVx1kdO_OJgMdQTS4Z4kJ5N8YWCbaFzc/ (User Management and Realtime Chat App)
+
+## SSO
++ https://docs.google.com/document/d/1sW4PtdFDIcadpU1A-MSa0KqXqkqUnB6Rz3_g9HOy-bs/
+
+## User Management and Realtime Chat App
++ https://docs.google.com/document/d/18fEJMAHNOz_SVx1kdO_OJgMdQTS4Z4kJ5N8YWCbaFzc/
